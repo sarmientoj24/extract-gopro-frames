@@ -21,7 +21,7 @@ A script for extracting image frames from GoPro Video for every X meters
 
 4. Follow instructions 5-8 [here](https://lucaselbert.medium.com/extracting-gopro-gps-and-other-telemetry-data-fadf97ed1834)
 
-If the instructions are unclear for the setup in Windows, kindly follow the instructions here up to **Step 4**.
+If the instructions are unclear for the setup in Windows, kindly follow the instructions here up to **Step 8**.
 https://lucaselbert.medium.com/extracting-gopro-gps-and-other-telemetry-data-fadf97ed1834
 
 # Easier setup for Ubuntu
