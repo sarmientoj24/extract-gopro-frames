@@ -27,10 +27,9 @@ https://lucaselbert.medium.com/extracting-gopro-gps-and-other-telemetry-data-fad
 # Easier setup for Ubuntu
 I also created a setup script that uses `snap` to install `Go` and `ffmpeg` and sets up the whole thing.
 
-    ```
     chmod +x setup_ubuntu.sh
     ./setup_ubuntu.sh /path/to/go
-    ```
+
 After this, you just need to run the essential scripts.
 
 # Running
